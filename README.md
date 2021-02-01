@@ -2,7 +2,7 @@
 Emīls Strēlis
 Fotogrāfija: ![Mana bilde](https://cdn.discordapp.com/attachments/690155185321934898/805803395864592455/20210201_161138.jpg)
 Adrese: Skolas iela 2 – 104, Jūrmala, LV - 2016
-Mob. tālr.: 20316485
+Mob. tālr.: 20416485
 E-pasts: emilstrelis@inbox.lv
 
 ## Izglītība
