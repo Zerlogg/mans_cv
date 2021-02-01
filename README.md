@@ -25,6 +25,6 @@ Esmu apmeklējis basketbola nodarbības 1 gadu.
 ## Pieredze programēšanā
 Pirmo pieredzi programmēšanā ieguvu tehnikumā.
 Iepriekš pieredze programmēšanā nebija, bet vienmēr programmēšana interesējusi.
-Esošajā skolā esmu iemācījies rīkoties ar:
+Esošajā skolā esmu iemācījies rīkoties ar programmām:
 Scratch 2
 Python
